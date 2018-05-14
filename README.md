@@ -1,4 +1,4 @@
-# TrajectoryDescription
+# TrajectoryDrawing
 The trajectory of the robot is known and plotted with Pangolin.
 
 ## Data description
@@ -9,11 +9,11 @@ Timestamp Translation-x Translation-y Translation-z Quaternion-x Quaternion-y Qu
 
 ## Additional Prerequisites for this demo
 **Pangolin**  
-We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
+Use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and interface. 
 Dowload and install instructions can be found at: https://github.com/stevenlovegrove/Pangolin.
 
 **Sophus**  
-We use [Sophus](https://github.com/strasdat/Sophus) for Lie groups commonly used for 2d and 3d geometric problems. 
+Use [Sophus](https://github.com/strasdat/Sophus) for Lie groups commonly used for 2d and 3d geometric problems. 
 Dowload and install instructions can be found at: https://github.com/strasdat/Sophus.
 
 ## Build and Run
